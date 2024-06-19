@@ -1,6 +1,6 @@
 # CLI Quiz Application
 
-A command-line quiz application built with Node.js, TypeScript, Inquirer, and Chalk.
+A simple command-line quiz application built with Node.js, TypeScript, Inquirer, and Chalk.
 
 ## Description
 
